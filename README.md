@@ -66,4 +66,4 @@ I hope you love and enjoy this application.
 ![img1](1_new_easy_recorder.png)
 
 # Download on Google play
-https://play.google.com/store/apps/details?id=thuongngo.easyrecorder
+[Download here](https://play.google.com/store/apps/details?id=thuongngo.easyrecorder)
