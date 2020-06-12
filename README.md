@@ -61,7 +61,7 @@ It's is totally free, simple, and easy to use but no less beautiful. It can be u
 • Especially, you can change themes for the app.
 
 I hope you love and enjoy this application.
-# Screen shots
+# Screenshots
 
 ![img1](1_new_easy_recorder.png)
 
