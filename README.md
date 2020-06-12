@@ -59,8 +59,6 @@ It's is totally free, simple, and easy to use but no less beautiful. It can be u
 
 • Especially, you can change themes for the app.
 
-<b>Please check it here on Google Play:</b> https://play.google.com/store/apps/details?id=thuongngo.easyrecorder
-
 I hope you love and enjoy this application.
 # Screen shots
 
