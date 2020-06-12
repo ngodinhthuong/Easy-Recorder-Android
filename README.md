@@ -1,5 +1,5 @@
 # Easy-Recorder-Android
-![xxx](graphic_feature_new_easy_recorder.png)
+![graphic](graphic_feature_new_easy_recorder.png)
 <b>Recorder software (Easy Recorder)</b>
 
 It's is totally free, simple, and easy to use but no less beautiful. It can be used to record your meeting, personal notes, speeches, lectures, songs, interview, day to day sounds, especially your moments. It supports many languages for many countries and regions, so everyone can use it. This application is a good choice.
@@ -63,6 +63,7 @@ It's is totally free, simple, and easy to use but no less beautiful. It can be u
 I hope you love and enjoy this application.
 # Screen shots
 
+![img1](1_new_easy_recorder.png)
 
 # Download on Google play
 https://play.google.com/store/apps/details?id=thuongngo.easyrecorder
